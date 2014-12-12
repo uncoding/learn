@@ -1,2 +1,2 @@
-##### one hour a day
+##### ONE HOUR A DAY
 ##learn the github how work is
