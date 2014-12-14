@@ -10,8 +10,9 @@
 	##对应当前地址	git remote add origin https://github.com/unkowner/walk.git
 	##提交		git push -u origin master
 	##默认配置
-			###git config --global user.name "your_username"
-			###git config --global user.email your_email@domain.com
+
+	###git config --global user.name "your_username"
+	###git config --global user.email your_email@domain.com
 
 	##最后的提交需要每次的输入当前GIT的帐号和用户名，每次都提交都需要TT，但可以在本地生成一个唯一码，当前这个问题
 ####创建本地密钥方法
