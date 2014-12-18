@@ -88,5 +88,5 @@ server {
 --
 ###注意的几个问题
 ####a.进行nginx虚拟主机配置的时候注意  用户组 group  start; restart; stop; status; ps auwx | grep httpd; 配置路径的查询; 不同的系统有所不相同
-####b.php5-fpm的安装和查看他的状态，时候能够正常的运行;
+####b.php5-fpm的安装和查看他的状态，使用时候能够正常的运行;
 ####c.在命令行测试网站是否正常的启用；  curl wwww.test.com 
