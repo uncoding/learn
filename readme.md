@@ -1,2 +1,3 @@
 ##### ONE HOUR A DAY
-##learn the github how work is
+##学习记录
+###主要是把一些零碎的东西进行整理  存放在这里
